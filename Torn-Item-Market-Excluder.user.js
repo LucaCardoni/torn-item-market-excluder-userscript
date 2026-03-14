@@ -141,7 +141,7 @@
             if (document.querySelector(".virtualListing___jl0JE")) {
                 createUI();
                 watchChanges();
-                applyFilter(); // initial run
+                applyFilter();
                 observer.disconnect();
             }
         });
