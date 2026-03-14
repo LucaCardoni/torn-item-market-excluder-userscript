@@ -5,7 +5,7 @@ We all have items we don't want to sell: suitcases, stacked drugs and boosters, 
 Just download the script, edit the list, and you'll never have to worry about accidentally selling things when you press "select all" in the item market again.
 
 ### How to install
-1. **[Install from GitHub](https://raw.githubusercontent.com/LucaCardoni/torn-item-market-excluder/main/Torn-Item-Market-Excluder.user.js)**
+1. **[Install from GitHub](https://raw.githubusercontent.com/LucaCardoni/torn-item-market-excluder-userscript/main/Torn-Item-Market-Excluder.user.js)**
 2. Tampermonkey / Violentmonkey will open → Install
 
 ### Also available on GreasyFork
